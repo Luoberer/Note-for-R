@@ -7,3 +7,4 @@
 + Function (介绍R内置的各种方程)
 + Data Import (介绍R中数去读取方法)
 + Graphs (介绍了R中的plot和ggplot2画图方法)
+## Lec 4-5
