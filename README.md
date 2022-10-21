@@ -5,6 +5,11 @@
 ## Lec 2-3
 + Data Structure (介绍了R中的数据类型，即创建方法)；
 + Function (介绍R内置的各种方程)
-+ Data Import (介绍R中数去读取方法)
++ Data Import (介绍R中数据读取方法)
 + Graphs (介绍了R中的plot和ggplot2画图方法)
 ## Lec 4-5
++ Pipe operator (详细介绍了pipe operator的具体用法)
++ 基本数据管理
++ +mutate()
++ +select()
++ +
