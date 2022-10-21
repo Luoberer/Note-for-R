@@ -10,6 +10,6 @@
 ## Lec 4-5
 + Pipe operator (详细介绍了pipe operator的具体用法)
 + 基本数据管理
-+ +mutate()
-+ +select()
-+ +
+  + mutate()
+  + select()
+  + 
