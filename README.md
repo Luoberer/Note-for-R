@@ -2,7 +2,7 @@
 
 [R-Note-(Lec 2-3)](https://htmlpreview.github.io/?https://github.com/Luoberer/Note-for-R-Lec/blob/main/Note-for-R--Lec-2-3-.html)
 
-[R-Note(Lec 4-5)](https://htmlpreview.github.io/?https://github.com/Luoberer/Note-for-R-Lec/blob/main/Note-for-R--Lec-4-.html)
+[R-Note-(Lec 4-5)](https://htmlpreview.github.io/?https://github.com/Luoberer/Note-for-R-Lec/blob/main/Note-for-R--Lec-4-.html)
 
 ## 简介
 
