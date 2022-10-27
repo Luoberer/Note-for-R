@@ -21,4 +21,14 @@
 + 基本数据管理
   + mutate()
   + select()
-  + 
+  + 修改列名
+  + 按行选取 filter()
+  + 合并数据
+  + 处理缺失值 
+  + 数据规整
+    + pivot_longer()
+    + pivot_wider()
++ From data set to a random variables
+  + summary()
+  + Probability models
++ Generate random variables by the build-in functions
