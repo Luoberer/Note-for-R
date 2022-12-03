@@ -4,7 +4,7 @@
 
 [R-Note-(Lec 4-5)](https://htmlpreview.github.io/?https://github.com/Luoberer/Note-for-R-Lec/blob/main/Note-for-R--Lec-4-.html)
 
-(https://htmlpreview.github.io/?)
+[Hypothesis with R](https://htmlpreview.github.io/https://github.com/Luoberer/Note-for-R/blob/main/Hypothesis%20Testing%20with%20R.html?)
 
 ## 简介
 
