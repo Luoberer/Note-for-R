@@ -4,6 +4,8 @@
 
 [R-Note-(Lec 4-5)](https://htmlpreview.github.io/?https://github.com/Luoberer/Note-for-R-Lec/blob/main/Note-for-R--Lec-4-.html)
 
+(https://htmlpreview.github.io/?)
+
 ## 简介
 
 这个项目是收纳本人R在学期间的笔记，html文件由RStudio编写而成，内含代码直接演示结果，从而使得每段代码的功能得以可视化表达，更易学习理解。
